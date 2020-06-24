@@ -1,4 +1,5 @@
 
-print("hello world")
-print("basic git commands")
+for i in range(5):
+	print("hello world")
+
 
